@@ -30,7 +30,7 @@ body{
     border-radius: 12px;
 }
 #container i{
-    color: white;
+    color: red;
     font-size: 90px;
     position: absolute;
     top: 50%;
